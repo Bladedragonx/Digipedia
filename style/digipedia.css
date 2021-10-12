@@ -1,0 +1,53 @@
+.digimon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: white;
+    padding: 10px;
+}
+
+.digimon-nameid {
+    text-align: center;
+    font-size: 30px;
+}
+
+.digivolutions {
+    background-color: lightgray;
+    padding: 20px;
+}
+
+ul li img{
+    width: 40%;
+    border-radius: 50%;
+    border: 1px solid black;
+    box-shadow: 2px 2px 5px;
+}
+ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+
+ul li.first-evolution {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+}
+
+ul li.first-evolution::after {
+    font-size: 50px;
+    font-family: 'Material Icons';
+    content: 'arrow_forward_ios';
+}
+
+ul.second-evolution{
+    display: flex;
+    flex-direction: column;
+}
+
+ul.second-evolution li{
+    text-align: center;
+}

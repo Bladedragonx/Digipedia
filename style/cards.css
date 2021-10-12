@@ -1,0 +1,40 @@
+.card-deck {
+    display: grid;
+    grid-gap: 15px;
+    grid-template-areas: "card . . .";
+    background: white;
+    padding: 10px;
+}
+
+.card {
+    grid-area: 'card';
+    border: 1px solid lightgray;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px;
+    padding: 10px;
+}
+
+.digimon-id{
+    font-size: 30px;
+    text-align: left;
+    color: lightgray;
+}
+
+.digimon-name{
+    font-size: 40px;
+    text-align: center;
+}
+
+/*Tela de Tablet*/
+@media (max-width: 800px){
+    .card-deck{
+        grid-template-areas: "card . .";
+    }
+}
+
+/*Tela de Celular*/
+@media (max-width: 550px){
+    .card-deck{
+        grid-template-areas: "card";
+    }
+}

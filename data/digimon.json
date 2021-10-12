@@ -1,0 +1,353 @@
+[
+    {
+        "id": "1",
+        "Name": "Koromon",
+        "Level": "inTraining",
+        "Description": "",
+        "Digivolutions": ["8"]
+    },
+    {
+        "id": "2",
+        "Name": "Tsunomon",
+        "Level": "inTraining",
+        "Description": "",
+        "Digivolutions": ["9", "38"]
+    },
+    {
+        "id": "3",
+        "Name": "Yokomon",
+        "Level": "inTraining",
+        "Description": "",
+        "Digivolutions": ["10"]
+    },
+    {
+        "id": "4",
+        "Name": "Motimon",
+        "Level": "inTraining",
+        "Description": "",
+        "Digivolutions": ["11"]
+    },
+    {
+        "id": "5",
+        "Name": "Tanemon",
+        "Level": "inTraining",
+        "Description": "",
+        "Digivolutions": ["012"]
+    },
+    {
+        "id": "6",
+        "Name": "Bukamon",
+        "Level": "inTraining",
+        "Description": "",
+        "Digivolutions": ["13"]
+    },
+    {
+        "id": "7",
+        "Name": "Tokomon",
+        "Level": "inTraining",
+        "Description": "",
+        "Digivolutions": ["14"]
+    },
+    {
+        "id": "8",
+        "Name": "Agumon",
+        "Level": "Rookie",
+        "Description": "",
+        "Digivolutions": ["16"]
+    },
+    {
+        "id": "9",
+        "Name": "Gabumon",
+        "Level": "Rookie",
+        "Description": "",
+        "Digivolutions": ["18", "33", "45"]
+    },
+    {
+        "id": "10",
+        "Name": "Biyomon",
+        "Level": "Rookie",
+        "Description": "",
+        "Digivolutions": ["21", "50"]
+    },
+    {
+        "id": "11",
+        "Name": "Tentomon",
+        "Level": "Rookie",
+        "Description": "",
+        "Digivolutions": ["15", "23"]
+    },
+    {
+        "id": "12",
+        "Name": "Palmon",
+        "Level": "Rookie",
+        "Description": "",
+        "Digivolutions": ["25"]
+    },
+    {
+        "id": "13",
+        "Name": "Gomamon",
+        "Level": "Rookie",
+        "Description": "",
+        "Digivolutions": ["28"]
+    },
+    {
+        "id": "14",
+        "Name": "Patamon",
+        "Level": "Rookie",
+        "Description": "",
+        "Digivolutions": ["29", "43"]
+    },
+    {
+        "id": "15",
+        "Name": "Kuwagamon",
+        "Level": "Champion",
+        "Description": "",
+        "Digivolutions": []
+    },
+    {
+        "id": "16",
+        "Name": "Greymon",
+        "Level": "Champion",
+        "Description": "",
+        "Digivolutions": ["49"]
+    },
+    {
+        "id": "17",
+        "Name": "Shellmon",
+        "Level": "Champion",
+        "Description": "",
+        "Digivolutions": []
+    },
+    {
+        "id": "18",
+        "Name": "Garurumon",
+        "Level": "Champion",
+        "Description": "",
+        "Digivolutions": []
+    },
+    {
+        "id": "19",
+        "Name": "Seadramon",
+        "Level": "Champion",
+        "Description": "",
+        "Digivolutions": []
+    },
+    {
+        "id": "20",
+        "Name": "Monochromon",
+        "Level": "Champion",
+        "Description": "",
+        "Digivolutions": []
+    },
+    {
+        "id": "21",
+        "Name": "Birdramon",
+        "Level": "Champion",
+        "Description": "",
+        "Digivolutions": []
+    },
+    {
+        "id": "22",
+        "Name": "Meramon",
+        "Level": "Champion",
+        "Description": "",
+        "Digivolutions": []
+    },
+    {
+        "id": "23",
+        "Name": "Kabuterimon",
+        "Level": "Champion",
+        "Description": "",
+        "Digivolutions": []
+    },
+    {
+        "id": "24",
+        "Name": "Andromon",
+        "Level": "Ultimate",
+        "Description": "",
+        "Digivolutions": []
+    },
+    {
+        "id": "25",
+        "Name": "Togemon",
+        "Level": "Champion",
+        "Description": "",
+        "Digivolutions": []
+    },
+    {
+        "id": "26",
+        "Name": "Numemon",
+        "Level": "Champion",
+        "Description": "",
+        "Digivolutions": ["27"]
+    },
+    {
+        "id": "27",
+        "Name": "Monzaemon",
+        "Level": "Ultimate",
+        "Description": "",
+        "Digivolutions": []
+    },
+    {
+        "id": "28",
+        "Name": "Ikkakumon",
+        "Level": "Champion",
+        "Description": "",
+        "Digivolutions": []
+    },
+    {
+        "id": "29",
+        "Name": "Unimon",
+        "Level": "Champion",
+        "Description": "",
+        "Digivolutions": ["24"]
+    },
+    {
+        "id": "30",
+        "Name": "Leomon",
+        "Level": "Champion",
+        "Description": "",
+        "Digivolutions": []
+    },
+    {
+        "id": "31",
+        "Name": "Ogremon",
+        "Level": "Champion",
+        "Description": "",
+        "Digivolutions": []
+    },
+    {
+        "id": "32",
+        "Name": "Devimon",
+        "Level": "Champion",
+        "Description": "",
+        "Digivolutions": []
+    },
+    {
+        "id": "33",
+        "Name": "Frigimon",
+        "Level": "Champion",
+        "Description": "",
+        "Digivolutions": []
+    },
+    {
+        "id": "34",
+        "Name": "Mojyamon",
+        "Level": "Champion",
+        "Description": "",
+        "Digivolutions": []
+    },
+    {
+        "id": "35",
+        "Name": "Sukamon",
+        "Level": "Champion",
+        "Description": "",
+        "Digivolutions": ["46"]
+    },
+    {
+        "id": "36",
+        "Name": "Centarumon",
+        "Level": "Champion",
+        "Description": "",
+        "Digivolutions": ["24"]
+    },
+    {
+        "id": "37",
+        "Name": "Bakemon",
+        "Level": "Champion",
+        "Description": "",
+        "Digivolutions": []
+    },
+    {
+        "id": "38",
+        "Name": "Elecmon",
+        "Level": "Rookie",
+        "Description": "",
+        "Digivolutions": ["16"]
+    },
+    {
+        "id": "39",
+        "Name": "Botamon",
+        "Level": "Fresh",
+        "Description": "",
+        "Digivolutions": ["1"]
+    },
+    {
+        "id": "40",
+        "Name": "Punimon",
+        "Level": "Fresh",
+        "Description": "",
+        "Digivolutions": ["2"]
+    }
+    ,
+    {
+        "id": "41",
+        "Name": "Poyomon",
+        "Level": "Fresh",
+        "Description": "",
+        "Digivolutions": ["7"]
+    },
+    {
+        "id": "42",
+        "Name": "Yuramon",
+        "Level": "Fresh",
+        "Description": "",
+        "Digivolutions": ["5"]
+    },
+    {
+        "id": "43",
+        "Name": "Angemon",
+        "Level": "Champion",
+        "Description": "",
+        "Digivolutions": []
+    },
+    {
+        "id": "44",
+        "Name": "Whamon",
+        "Level": "Ultimate",
+        "Description": "",
+        "Digivolutions": []
+    },
+    {
+        "id": "45",
+        "Name": "Drimogemon",
+        "Level": "Champion",
+        "Description": "",
+        "Digivolutions": []
+    },
+    {
+        "id": "46",
+        "Name": "Etemon",
+        "Level": "Ultimate",
+        "Description": "",
+        "Digivolutions": []
+    },
+    {
+        "id": "47",
+        "Name": "Gazimon",
+        "Level": "Rookie",
+        "Description": "",
+        "Digivolutions": []
+    },
+    {
+        "id": "48",
+        "Name": "Pagumon",
+        "Level": "inTraining",
+        "Description": "",
+        "Digivolutions": ["47"]
+    },
+    {
+        "id": "49",
+        "Name": "SkullGreymon",
+        "Level": "Ultimate",
+        "Description": "",
+        "Digivolutions": []
+    },
+    {
+        "id": "50",
+        "Name": "Kokatorimon",
+        "Level": "Champion",
+        "Description": "",
+        "Digivolutions": []
+    }
+]
