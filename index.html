@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="style/cards.css">
     <title>Digidex</title>
 </head>
-<body>
+<body onload="deckLoad(12)">
     <header>
         <div class="container head">
             <img class="digimon-logo" src="img/Digimon-Logo.png" alt="Digimon Logo">
@@ -20,8 +20,13 @@
     </header>
     <section>
         <div class="container section">
-            <div class="card-deck">
-
+            <div class="containercard">
+                <div class="card-deck">
+                    
+                </div>
+                <div class="more-card">
+                    <button onClick="deckLoad(12);">Ver mais</button>
+                </div>
             </div>
         </div>
     </section>

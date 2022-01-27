@@ -15,6 +15,10 @@
 .digivolutions {
     background-color: lightgray;
     padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 
 ul li img{
@@ -29,25 +33,26 @@ ul {
     list-style-type: none;
 }
 
-ul li.first-evolution {
+ul.inTraining, ul.Rookie, ul.Champion, ul.Ultimate, ul.Mega {
     display: flex;
     justify-content: center;
-    flex-direction: row;
     align-items: center;
     text-align: center;
 }
 
-ul li.first-evolution::after {
+.material-icons-outlined {
     font-size: 50px;
     font-family: 'Material Icons';
     content: 'arrow_forward_ios';
 }
 
-ul.second-evolution{
+ul.Rookie, ul.Champion, ul.Ultimate, ul.Meg{
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
-ul.second-evolution li{
+ul.Rookie li{
     text-align: center;
 }
